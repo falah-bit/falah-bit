@@ -1,6 +1,19 @@
 <h1>Abut Me👋</h1>
 <p>Hello there! I'm passionate about technology, gaming, and anime. Here's a glimpse into my interests:</p>
 
+<h3 align="left">Games:</h3>
+
+- Genshin Impact
+- Honkai Star Rail
+- Honkai Impact 3rd
+- Clash of Clans
+- Dota 2
+
+<h3 align="left">Other Interests:</h3>
+
+- Anime lover 🌸
+
+
 <h3 align="left">Skill:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
