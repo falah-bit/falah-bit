@@ -4,8 +4,6 @@
 <h3 align="left">Games:</h3>
 
 - Genshin Impact
-- Honkai Star Rail
-- Honkai Impact 3rd
 - Clash of Clans
 - Dota 2
 
