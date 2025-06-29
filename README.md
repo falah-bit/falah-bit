@@ -1,4 +1,10 @@
-<h1>Abut Me👋</h1>
+<h2>Hi there.</h2>
+
+<p align="center">
+  <img src="https://github.com/falah-bit/falah-bit/blob/0b5a5003cb6f9f694326b5077c60d49eeba2b570/public/bocchi-bocchi-the-rock.gif" alt="image alt" />
+</p>
+
+<h2>Abut Me👋</h2>
 <p>Hello there! I'm passionate about technology, gaming, and anime. Here's a glimpse into my interests:</p>
 
 <h3 align="left">Games:</h3>
