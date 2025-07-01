@@ -5,18 +5,8 @@
 </p>
 
 <h2>Abut Me👋</h2>
-<p>Hello there! I'm passionate about technology, gaming, and anime. Here's a glimpse into my interests:</p>
-
-<h3 align="left">Games:</h3>
-
-- Genshin Impact
-- Clash of Clans
-- Dota 2
-
-<h3 align="left">Other Interests:</h3>
-
-- Anime lover 🌸
-
+<p>Hello there! I'm passionate about technology, gaming, and anime. 
+  
 <h3 align="left">Talk with me:</h3>
 <p align="left">
 <a href="https://fb.com/najmoelfalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="najmoelfalah" height="30" width="40" /></a>
