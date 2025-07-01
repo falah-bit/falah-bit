@@ -17,7 +17,7 @@
 
 - Anime lover 🌸
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Talk with me:</h3>
 <p align="left">
 <a href="https://fb.com/najmoelfalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="najmoelfalah" height="30" width="40" /></a>
 <a href="https://instagram.com/najmoelfalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="najmoelfalah" height="30" width="40" /></a>
